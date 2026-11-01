@@ -100,7 +100,7 @@ OS_Lab_Assignment1/
 │
 ├── Task1_Shortcuts/
 │   ├── shortcuts.md
-│   └── Screenshots/
+│   
 │
 ├── Task2_CMD/
 │   ├── cmd_commands.md
